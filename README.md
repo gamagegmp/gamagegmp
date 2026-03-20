@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently reading for __BSc(Hons) in Information Technology @University of Moratuwa.__  
+- 🌱 I’m graduated __BSc(Hons) in Information Technology @University of Moratuwa.__  
 - 👯 I’m looking to collaborate on __Quality Assurance Engineering.__  
 - 💬 Ask me about anything related to __QA Engineering.__  
 - 📫 How to reach me: malithipgamage@gmail.com  
